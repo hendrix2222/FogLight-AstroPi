@@ -15,5 +15,6 @@
     <module>PressureSensor</module>
     <module>HumiditySensor</module>
     <module>Compass</module>
+    <module>RollPitchDisplay</module>
   </modules>
 </project>
